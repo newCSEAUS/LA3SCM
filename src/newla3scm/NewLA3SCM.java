@@ -9,6 +9,10 @@ package newla3scm;
  *
  * @author Khalid Khan
  */
+class addFeatureA{
+public addFeatureA(){};
+public void adFeatureB(){System.out.println("Add Feature B");};
+}
 class addFeaturB{
 public addFeaturB(){};
 public void adFeatureB(){System.out.println("Add Feature B");};
